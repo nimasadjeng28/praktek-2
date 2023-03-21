@@ -1,0 +1,110 @@
+.tombol-link{
+    text-align: right;
+    padding-right: 40px;
+    padding-top: 20px;
+    background-color: white;
+    width: 100%;
+    height: 45px;
+}
+
+/*body*/
+
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    background-color: beige;
+}
+
+/*home*/
+
+.garis{
+    border-bottom: solid;
+    color: black;
+    width: 300px;
+    display: inline-block;
+    text-align: center;
+}
+
+.text-tengah{
+    text-align: center !important;
+    padding-left: 300px;
+    padding-right: 300px;
+}
+
+/*pendidikan*/
+
+.pendidikan{
+    text-align: center;
+    padding-left: 30px;
+}
+
+.kartu{
+    padding: 15px;
+    width: 200px;
+    box-shadow: 5px 5px 8px;
+}
+
+.foto-sekolah{
+    width: 200px;
+    height: 150px;
+}
+
+.kumpulan-kartu{
+    display: flex;
+    justify-content: center;
+}
+
+/*Jadwal Kuliah*/
+
+.tabel-jadwal{
+    border: 1px solid;
+    color: black;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+table tr {
+    text-align: center;
+    padding-left: 15px;
+}
+
+table td {
+    padding: 10px 15px;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    border-left: 1px solid;
+    border-right: 1px solid;
+}
+
+table th {
+    padding: 10px 15px;
+    border-top: 1px solid;
+    border-bottom: 1px solid;
+    border-left: 1px solid;
+    border-right: 1px solid;
+}
+
+/*Aktivitas*/
+
+.aktivitas{
+    text-align: center;
+    padding-left: 30px;
+}
+
+.kartu-aktivitas{
+    padding: 15px;
+    width: 300px;
+    box-shadow: 5px 5px 8px;
+}
+
+.foto-aktivitas{
+    width: 300px;
+    height: 150px;
+}
+
+.kumpulan-kartu-aktivitas{
+    display: flex;
+    justify-content: center;
+}
+
